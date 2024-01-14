@@ -1,3 +1,3 @@
-# flashcard
+# Flashcard
 
-FlashCard application using flutter
+FlashCard application using flutter.
